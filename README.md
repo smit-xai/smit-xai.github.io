@@ -1,6 +1,6 @@
 # **HC-XAI-inventory**
 ---
-This **inventory** include collection of human centered tools you can use for the evaluation of the AI explanations. Some of the tools could be also used during the co-creation and development of the explanations. To ensure that our inventory is growing, we invite the community to contribute to our collection.
+This **inventory** includes a collection of human-centred tools you can use to evaluate the AI explanations. Some of the tools could also be used during the co-creation and development of the explanations. To ensure our inventory grows and is up to date, we invite the community to contribute to our collection. 
 
 **How?**
 
@@ -10,7 +10,7 @@ This **inventory** include collection of human centered tools you can use for th
 4. We will check the method card subsequently and add it to our collection. 
 
 
-For further information about the methods and the existing collection, we refer you to our website. 
+We refer you to our website for further information about the methods and the existing collection. 
 
 # **Add a method: template**
 
