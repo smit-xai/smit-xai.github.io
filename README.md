@@ -2,7 +2,7 @@
 ---
 This **inventory** includes a collection of human-centred tools you can use to evaluate the AI explanations. Some of the tools could also be used during the co-creation and development of the explanations. To ensure our inventory grows and is up to date, we invite the community to contribute to our collection. 
 
-**How?**
+**How can you contribute?**
 
 1. Download the template from the repository: https://github.com/smit-xai/smit-xai.github.io/blob/main/template.docx
 2. Add the existing method according to the criteria in the table. 
