@@ -4,7 +4,7 @@ This **inventory** include collection of human centered tools you can use for th
 
 **How?**
 
-1. Download the template from the repository. 
+1. Download the template from the repository: https://github.com/smit-xai/smit-xai.github.io/blob/main/template.docx
 2. Add the existing method according to the criteria in the table. 
 3. Upload the complete card to the repository as : AUTHOR OF THE METHOD.docx
 4. We will check the method card subsequently and add it to our collection. 
