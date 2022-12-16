@@ -10,7 +10,7 @@ This **inventory** includes a collection of human-centred tools you can use to e
 4. We will check the method card subsequently and add it to our collection. 
 
 
-We refer you to our website for further information about the methods and the existing collection. 
+We refer you to our website for further information about the methods and the existing collection - (the link will follow shortly).
 
 # **Add a method: template**
 
